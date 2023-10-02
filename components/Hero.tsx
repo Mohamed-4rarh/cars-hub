@@ -12,7 +12,7 @@ export default function Hero() {
     <div className='hero'>
       <div className='flex-1 padding-x pt-36'>
         <h1 className='hero__title capitalize'>
-          find, book, or rent a car, Quickly and easily
+          find, book, or rent a car, Quickly and easily!
         </h1>
         <p className='hero__subtitle'>
           streamline your car rental experience with our effortless booking process.
